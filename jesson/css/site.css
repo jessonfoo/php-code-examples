@@ -1,0 +1,129 @@
+html{
+	overflow: visible !important;
+}
+service-info:first-child{
+  margin-left:0px !important;
+}
+service-info:last-child{
+  margin-right:0px !important;
+}
+.selector, .selector2, .selector3 {
+  color:white;
+  margin:-4px 25px 0px 25px;
+
+}
+#login > h1:nth-child(1) > a:nth-child(1) {
+    line-height: 1;
+}
+#logo-span > a:nth-child(1) > img:nth-child(1) {
+    width: 516px !important;
+    height: 60px !important;
+}
+.selector, .selector2, .selector3 {
+  background-color: #159EE0;
+  color: rgb(255, 255, 255);
+  margin: 9px -5px 0px -1px;
+}
+.ps-label{
+    display: inline-flex;
+  width: 7%;
+  position: absolute;
+  left: -10%;
+  top: 30%;
+}
+label.ps-label {
+  display: inline-flex !important;
+  margin-bottom: 5px;
+  margin-left: 25px;
+  padding-right: 5px;
+}
+select#cat1 {
+  margin: 9px 4px 0px -15px;
+}
+label[for="pmodel"]{
+  display: inline-flex;
+  width: 7%;
+  margin-left: -50px;
+}
+label[for="pnumber"] {
+  width: 11% !important;
+  margin-left: 30px;
+}
+
+.fa.fa-search.fa-2x.colow-white:before {
+  content: "\f002";
+  margin-left: -60px;
+  color:white;
+}
+div#reviews, .tabs .tabse-default {
+  display: none !important;
+}
+.product-categories > li > a {
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  display: block !important;
+  text-align: left;
+}
+.quick-view-popup .images.zoom-disabled .main-image-slider ul li, .single-product-page .images.zoom-disabled .main-image-slider ul li {
+  text-align: center;
+  list-style: none;
+}
+/* html{ */
+/* } */
+
+div.content div.images.shown{
+	width:50%;
+	display:inline-block;
+}
+.content div.single-product-page .row-fluid.product-info.sidebar-position-without.responsive-sidebar-bottom .span6{
+	display:none !important;
+}
+.content div.single-product-page .row-fluid.product-info.sidebar-position-without.responsive-sidebar-bottom .span6.product_meta{
+	float:right;
+	display:inline-block !important;
+	width:47%;
+}
+.yith_magnifier_zoom_magnifier{
+	width:70% !important;
+	height:70% !important;
+}
+
+
+/* 8/16 CSS */
+.give-h{
+	height:300px !important;
+}
+.visible-desktop#respo-nav{
+	display:none !important;
+}
+#mob-menu{
+	height:0px;
+	overflow: hidden;
+	transition: all 1s;
+	-webkit-transition: all 1s;
+}
+#mob-placeholder{
+	background: rgb(90, 91, 92);
+    padding: 20px 0px;
+    text-align: center;
+    position:relative;
+}
+#mob-placeholder .fa{
+	    color: rgb(255, 255, 255);
+    font-size: 21px;
+}
+#mob-menu .menu#menu-main-menu-1 > li.menu-item{
+	display:block !important;
+	width:100% !important;
+}
+
+#respo-nav.main-nav .menu > li .nav-sublist-dropdown{
+	position:relative;
+	width:100%;
+	margin-left:-11px !important;
+}
+/* 9/13 CSS */
+.him.full-width div div div div a{
+	font-family: 'Arial';
+}
+/* MOZILLA */

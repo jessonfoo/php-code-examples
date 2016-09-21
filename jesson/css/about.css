@@ -1,0 +1,19 @@
+/* +============================+ */
+/* |        | */
+/* +============================+ */
+.about-top {
+  padding: 0px 0 0px;
+/* 	background: url(../../../uploads/2015/04/aboutbanner.jpg) repeat-x 50% 0%; */
+/*  height: 140px; */ 
+  background-size:contain;
+}
+.about-bottom {
+	padding: 0px 0 0px;
+/*  background: url(../../../uploads/2015/04/BottomBanner.jpg) repeat-x 50% 0%; */  
+/*	height: 84px; */	
+	background-size:contain;
+}
+.span6.a-left.normalize-text {
+/*  text-align: justify !important;
+*/
+}

@@ -1,0 +1,82 @@
+/* +================================+ */
+/* |       Home Page Content        | */
+/* +================================+ */
+
+/* .row-fluid.a-center.home-content { */
+	/*   margin-left: 30px; */
+	/*   display: inline-block; */
+	/*   margin-top: -67px; */
+	/*   position: relative; */
+	/*   z-index: 20; */
+	/* } */
+
+
+	/* +================================+ */
+	/* |    revolution slider fixes     | */
+	/* +================================+ */
+
+	/* .tp-leftarrow.default { display:none} */
+	/* .tp-rightarrow.default { display:none} */
+.slider-overlay {
+  margin-top: -97px;
+  z-index: 20;
+  position: absolute;
+  left:calc(50% - 500px);
+  width:1004px;  
+}
+.get-more{
+  position: absolute;
+  right: 30px;
+  top: 30px; 
+}
+.get-some {
+  position: absolute;
+  right: 30px;
+  top: 19px; 
+}
+.gallery-img-li{
+display:inline;
+}
+.gallery-img-li> img {
+  /* max-width:200px; */
+  height:150px;
+}
+	/* +================================+ */
+	/* |   revolution slider layover    | */
+	/* +================================+ */
+
+	/* .home-top-banner{ */
+		/*  */
+		/* } */
+
+		/* h2.color-white.a-center.layover-text { */
+			/* position: absolute; */
+			/* top: 320px; */
+			/* z-index: 20; */
+			/* width:100%; */
+			/* } */
+
+			/* +================================+ */
+			/* |    rev slider bottom border    | */
+			/* +================================+ */
+			/* div#rev_slider_2_1_wrapper { */
+				/*   border-bottom: 4px solid #b22229; */
+				/* } */
+				.rv-slide {
+					margin-top: -35px;
+				}
+				.view-gallery-button {
+					background: #F7DE32;
+					border: none;
+					border-bottom: 3px solid #DDAF32;
+					padding-top: 10px;
+					font-size: 25px;
+					font-family: lato;
+					font-weight: 200;
+					padding-bottom: 10px;
+					padding-left: 10px;
+					width: 300px;
+					text-align: left;
+					float:right;
+					position: relative;
+				}

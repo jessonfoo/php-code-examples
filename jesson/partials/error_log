@@ -1,0 +1,2 @@
+[08-May-2015 14:08:20 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/ussv/public_html/wp-content/themes/child/partials/main-nav-social-links.php on line 1
+[08-May-2015 14:09:02 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/ussv/public_html/wp-content/themes/child/partials/main-nav-social-links.php on line 1

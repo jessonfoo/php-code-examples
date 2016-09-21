@@ -1,0 +1,9 @@
+input.button{
+	background: rgb(10, 133, 213) !important;
+	font-size:21px;
+	padding:8px 20px;
+}
+input.button:hover{
+	text-decoration: underline;
+	color:white !important;
+}

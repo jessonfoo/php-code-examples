@@ -1,0 +1,18 @@
+.pp_content_container .pp_close {
+  top: -56px;
+  padding: 0px;
+  background-color: white;
+  right: 30px;
+  top: 10px;
+}
+.pp_content_container .pp_contract, .pp_content_container .pp_expand {
+  top: 10px;
+  padding: 0px;
+  background-color: white;
+  left: 25px !important;
+  bottom: auto !important;
+  width: 20px;
+  height: 20px;
+  line-height: 16px;
+  text-align: center;
+}

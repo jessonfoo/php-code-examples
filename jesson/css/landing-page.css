@@ -1,0 +1,146 @@
+/* +============================+ */
+/* |    Nav for other pages     | */
+/* +============================+ */
+.m-land-nav {
+  left: 0px;
+  height: 65px;
+  background: rgba(0, 0, 0, 0.3) none repeat scroll 0% 0%;
+  top: -10px;
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
+.mn-wr{
+  left:10px;
+  position:absolute !important;
+  top:-10px;
+  dis'open sans':inline-block;
+} 
+/* +============================+ */
+/* |    Home Landing Page       |*/
+/* +============================+ */
+@import url(http://fonts.googleapis.com/css?family='open sans':400,700); 
+.top-links > a {
+  text-decoration:none;
+  color:white;
+  font-family:'open sans';
+}
+.large-bar{ 
+  font-size: -webkit-xxx-large;
+  line-height: 0.75;
+  color: white;
+} 
+.land-nav {
+  left:0px;
+  height:50px;
+  background: rgba(0,0,0,0.3);
+  bottom: 50px;
+  padding: 15px 0px;
+}
+a.l-nav-links {  font-size: 12px;
+  color: #FFF;
+  line-height: 2.3;
+  padding-right: 5px;
+  padding-left: 5px;
+} 
+.tb-wr{min-width:100%;
+  position:absolute;
+  float: right;
+  right: -50px;
+  float:right;
+}
+/* redo for norm pages */
+.n-wr{
+  left:0;
+  position:absolute !important;
+} 
+.r-p-rel{
+  width:100%;
+}
+  #custom-span-6 {
+    width:60% !important; 
+  }
+
+/* +============================+ */
+/* |      css for phones       |*/
+/* +============================+ */
+
+@media all and (max-width:450px){
+  .tb-wr{
+    min-width:100%;
+    position:absolute;
+    float: right;
+    right: -0px !important;
+    float:right;
+  }
+  .span3.offset2.top-links {
+    margin-left: 0px !important;
+    width: 30% !important;
+  }
+  a.l-nav-links { 
+    font-size: 10px;
+    color: #FFF;
+    line-height: 2.3;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+  .land-nav { left:0px;
+    height:50px;
+    background: rgba(0,0,0,0.3);
+    bottom: 50px;
+    padding: 15px 60px 15px 0px;
+  }
+
+}
+/* +============================+ */
+/* |   css for small screens    |*/
+/* +============================+ */
+@media screen and (min-width:980px){
+  .custom-span8 {
+    width: calc(100% - 350px);
+  }
+  .r-p-rel{
+    position:relative !important;
+  }
+  .top-links > a {
+    text-decoration:none;
+    color:white;
+    font-family:'open sans';
+  }
+  .large-bar{
+    font-size: -webkit-xxx-large;
+    line-height: 0.75;
+    color: white;
+  } 
+  .land-nav {
+    left:0px;
+    height:50px;
+    background: rgba(0,0,0,0.3);
+    bottom: 50px;
+  padding: 15px 0px 0px 0px; }
+  a.l-nav-links {
+    font-size: 14px;
+    color: #FFF;
+    line-height: 2.3;
+    padding-right: 10px;
+    padding-left: 10px;
+  } 
+  .tb-wr {
+    min-width: 500px;
+    position: absolute;
+    /* float: right; */
+    right: -50px;
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+    top: -85px;
+  }
+  /* .tb-wr{ min-width:500px; position:absolute; float: right; right: -50px; float:right; } */
+  .n-wr{
+    min-width:1300px !important;
+    left:0;
+    position:absolute !important;
+  } 
+  #custom-span-6 {
+    width:60% !important; 
+  }
+}

@@ -1,0 +1,15 @@
+
+/* +============================+ */
+/* |        | */
+/* +============================+ */
+
+p.myaccount_user, address, p.myaccount_address {
+  font-size: 16px;
+  width: 1060px;
+}
+.account-banner-title {
+  height: auto;
+  width: 70%;
+  margin-top: 3%;
+  margin-left: 20%;
+}

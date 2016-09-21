@@ -1,0 +1,137 @@
+/* +============================+ */
+/* | Header Alignment & height  | */
+/* +============================+ */
+/*.header1 {*/
+	/*text-align:center;*/
+	/*margin-top:5px !important;                      /* Overwrites legenda css */
+	/*margin-bottom:5px !important;                   /* Overwrites legenda css */
+	/*}*/
+header.header.header1 {
+	  background: rgba(0,0,0,0.3);
+  margin-top: 0px;
+}
+.social-img {
+height:30px;}
+
+.boxed-content{
+  /* margin-left: 5% !important; */
+  /* margin-right: 7% !important; */
+  /* background-color:white; */
+  background-size:contain;
+  /* padding-bottom:50px; */
+  max-width:1440px;
+  clear: both;
+}
+
+/* +============================+ */
+/* |    Header Logo Info        | */
+/* +============================+ */
+
+.header5 .logo img, .header6 .logo img, .header1 .logo img, .header7 .logo img {
+  max-width: 450px !important;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  float: left;
+}
+
+	/* +============================+ */
+	/* | logo center nav adjustment | */
+	/* +============================+ */
+	/* ul#menu-main-menu { margin-top:70px; } */
+/* ul#menu-main-menu-3 {width: 800px; position: absolute; float: right; top: 45px; right: 0px; } */
+.menu-main-menu-3-container { position: absolute; width:900px; top: 40px;float:right; right: 0px;text-align:right; z-index: 1; }
+.menu-main-menu-2-container { position: absolute; width:900px; top: 40px;float:right; right: 0px;text-align:right; z-index: 1; }
+	/* +============================+ */
+	/* |  css for the top red bar   | */
+	/* +============================+ */
+.fixed-header .menu > li > a, .main-nav .menu > li > a {
+  display: block;
+  position: relative;
+  font-family: 'Play' !important;
+  color:white !important;
+  font-size: 12px !important;
+  padding: 13px 25px !important;
+  /* text-transform: uppercase; */
+  /* font-weight: 400; */
+}
+.main-nav .menu > li.menu-item > a,
+ul#menu-main-menu > li:hover > a {
+  font-family: 'play' !important;
+  font-size: 20px;
+}
+.main-nav .menu > li.menu-item,
+ul#menu-main-menu > li:hover {
+	/* color:#white !important; */
+	/* background: none !important; */
+  /* margin-right: 25px !important; */
+  /* margin-left: 25px !important; */
+  /* padding-right: 25px !important;  */
+  /* padding-left: 25px !important; */
+  /* padding-right: 20px !important; */
+  /* padding-left: 20px !important; */
+}
+.main-nav .menu > li.current-menu-item > a,
+ul#menu-main-menu > li > a:hover {
+  color:white !important;
+  font-family: 'play' !important;
+  display:inline-block;
+  /* background:#E31A3F; */
+  /* border:1px solid white; */
+  /* box-shadow: 0px 0px 9px; */
+  font-size: 14px;
+  /* padding:5px 6px; */
+}
+.main-nav.visible-desktop {
+  background: none;
+  line-height:0;
+  padding-bottom:0px;
+}
+.nav-above {
+  position: absolute;
+  color: #CDDCF6;
+  font-family: ''!important;
+  right: 80px;
+  top: -20px;
+}
+/* .main-nav .menu > li > a { */
+/*   font-family: 'fugaz one' !important; */
+/*   font-size: 20px; */
+/* } */
+
+	/* +============================+ */
+	/* |        | */
+	/* +============================+ */
+.menu-main-menu-container {
+  /* border-top: 1px solid white; */
+  /* border-bottom: 1px solid white; */
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  /* min-width: 640px; */
+  /* float: right; */
+  /* margin-top: -80px; */
+  /* position: relative; */
+}
+/* .main-nav .menu > li { */
+/*   padding-right: 40px !important; */
+/*   padding-left: 40px !important; */
+/* } */
+.et-mega-search .et-search-result {
+  min-height:100px;
+}
+.fixed-header .menu > li > a, .main-nav .menu > li > a {
+  display: block;
+  position: relative;
+  /* font-family: 'BebasNeue Bold','open sans'; */
+  font-family: 'play';
+  font-size: 18px !important;
+  line-height: 1;
+  /* width: 80px; */
+  margin-right: 0px;
+  margin-left: 0px;
+  width:auto;
+  padding: 40px 0px 5px 0px;
+  float:none !important;
+  margin-left:0px !important;
+  /* text-transform: uppercase; */
+  font-weight: 400;
+}

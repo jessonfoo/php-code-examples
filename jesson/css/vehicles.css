@@ -1,0 +1,12 @@
+.vb-b {
+  height: 600px;
+  margin-top: -35px;
+  background-size: contain;
+}
+.lhh { 
+  line-height:1.2 !important;
+  font-family:'airborne' !important;
+}
+input.bg-yellow.h-50.button.button-primary.button-large:hover {
+  color: white;
+}

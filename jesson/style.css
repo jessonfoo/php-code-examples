@@ -1,0 +1,75 @@
+/*
+Theme Name: Legezn
+Theme URI: http://8theme.com/
+Author: 8theme
+Author URI: http://themeforest.net/user/8theme
+Template: legenda
+Version: 2.6.2
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  Legezn
+ */
+@import url(http://fonts.googleapis.com/css?family=Play:400,700);
+@import url(https://fonts.googleapis.com/css?family=Play:400,700);
+/* @import url(http://fonts.googleapis.com/css?family=Fugaz+One); */
+/* @import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700); */
+/* @import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,700,600,400); */
+/* @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700); */
+/* @import url(http://fonts.googleapis.com/css?family=Ovo); */
+@import url('css/about.css');
+@import url('css/blog.css');
+@import url('css/contact.css');
+@import url('css/no-gutter.css');
+@import url('css/faq.css');
+@import url('css/footer.css');
+@import url('css/global.css');
+@import url('css/header.css');
+@import url('css/home.css');
+@import url('css/legenda-original.css');
+@import url('css/legenda-override.css');
+@import url('css/service.css');
+@import url('css/site.css');
+@import url('css/shop.css');
+@import url('css/account.css');
+@import url('css/testimonials.css');
+@import url('css/gallery.css');
+@import url('css/landing-page.css');
+@import url('css/vehicles.css');
+@import url('css/kquarry.css');
+/* @font-face {font-family: BebasNeue Bold;src:url("fonts/BebasNeue\ Bold.otf") format("opentype");} */
+/* @font-face {font-family: airborne ;src:url("fonts/airborne.ttf") format("truetype");} */
+/* @font-face {font-family: arrows ;src:url("fonts/arrows.ttf") format("truetype");} */
+/* @font-face {font-family: FontAwesome ;src:url("fonts/fontawesome.ttf") format("truetype");} */
+#ps-form > div > span > input[type="text"] {
+  padding: 3px;
+}
+select#cat2 {
+  margin: -9px 65px 0px -1px;
+}
+.fa-search:before {
+  content: "\f002";
+  margin-left: -40px;
+  color: white;
+  cursor:pointer;
+}
+.tabs.tabs-default {
+  display: none !important;
+}
+.slide-item.product-slide.-slide {
+  display: inline-flex;
+}
+.owl-item{
+  display:inline-flex;
+}
+.slider-container.posts-count-gt1{
+  overflow-x:hidden;
+}
+ul.product-categories {
+  font-family: play;
+  font-weight: bold;
+  display: table-caption;
+  color: rgb(67, 62, 107);
+  width: 100%;
+  padding: 0px 0px 10px 40px;
+}
