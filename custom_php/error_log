@@ -1,0 +1,24 @@
+[08-Apr-2015 06:51:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/gano/public_html/contact.php on line 19
+[08-Apr-2015 07:34:31 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/gano/public_html/business.php on line 26
+[08-Apr-2015 07:42:23 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/gano/public_html/products.php on line 263
+[08-Apr-2015 11:38:25 America/Chicago] PHP Warning:  include(calendar.php): failed to open stream: No such file or directory in /home/gano/public_html/news.php on line 61
+[08-Apr-2015 11:38:25 America/Chicago] PHP Warning:  include(calendar.php): failed to open stream: No such file or directory in /home/gano/public_html/news.php on line 61
+[08-Apr-2015 11:38:25 America/Chicago] PHP Warning:  include(): Failed opening 'calendar.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/gano/public_html/news.php on line 61
+[08-Apr-2015 13:18:35 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/gano/public_html/business.php on line 186
+[08-Apr-2015 13:50:30 America/Chicago] PHP Warning:  include(footerphp): failed to open stream: No such file or directory in /home/gano/public_html/contact.php on line 144
+[08-Apr-2015 13:50:30 America/Chicago] PHP Warning:  include(footerphp): failed to open stream: No such file or directory in /home/gano/public_html/contact.php on line 144
+[08-Apr-2015 13:50:30 America/Chicago] PHP Warning:  include(): Failed opening 'footerphp' for inclusion (include_path='.:/opt/php54/lib/php') in /home/gano/public_html/contact.php on line 144
+[09-Apr-2015 13:52:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$top' (T_VARIABLE) in /home/gano/public_html/company2.php on line 15
+[09-Apr-2015 19:07:56 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:08:48 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:08:51 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:08:56 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:09:07 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:10:13 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:10:16 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:10:39 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:10:44 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:15:25 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:15:26 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:16:28 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:16:30 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376

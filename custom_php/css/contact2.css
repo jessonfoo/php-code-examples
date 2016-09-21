@@ -1,0 +1,6 @@
+.cols-3 { width: calc(100% / 3); padding-bottom: 300px; } 
+.gec-col { background:#4C6687; opacity:0.85; padding:10px;color:white; }
+.twit-col { background:#96BBD0; opacity:0.85; padding:10px; }
+.fb-col { background:#576FA3; opacity:0.85; padding:10px;}
+.content-container { padding-top:100px;text-align:center; /* padding-left: 20%; */ }
+.gec-tw { color: white;}

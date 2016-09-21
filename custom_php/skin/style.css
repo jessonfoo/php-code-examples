@@ -1,0 +1,426 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('fonts/GOTHIC.TTF');
+}
+
+body {  
+    font-family:Century Gothic;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.wrapper, html
+{
+
+    padding:0px;
+    margin:0px;
+}
+
+.logo
+{
+    width:30%;
+    min-width: 200px;
+    display:inline-block;
+        vertical-align: middle;
+        margin:0px;
+        padding:0px;
+        background-color: white;
+        height:66px;
+        margin:0px;
+}
+
+.nav-bar{
+    background-color:#a22326;
+    position:fixed;
+    width:100%;
+    z-index:99999;
+        /*min-width:1200px; */
+}
+
+.logo img
+{
+    margin-top:10px;
+    float:right;
+}
+
+.nav
+{
+
+    max-width:69%;
+    min-width: 1000px;
+    background-color:#a22326;
+    display:inline-block;
+    vertical-align: middle;
+    height:66px;
+    background-image: url('images/navcurve.png');
+    background-repeat: no-repeat;
+    margin-left:-5px;
+            padding:0px;
+}
+
+.nav ul
+{
+height:66px;
+padding:0px;
+  vertical-align: top;
+margin:0px; 
+margin-left:30px;
+}
+.nav li
+{
+    display:inline;
+   height:66px;
+
+}
+
+.nav li a
+{
+   
+    display:inline-block;
+    color:white;
+    font-family:Century Gothic;
+    text-decoration:none;
+    padding:6px;
+    margin-left:20px;
+    height:54px;
+       text-align: middle;
+    line-height:54px;
+    
+}
+
+.nav li a:hover
+{
+    background-color:#425468;
+}
+
+
+.nohover hover {
+    background-color:transparent !important;
+}
+
+.spanish
+{
+    padding:5px;
+    background-color: #ca4145;
+    border-width:0px 0px 0px 0px;
+    border-style:dotted;
+    border-color:white;
+    display:inline;
+}
+
+.spanish:hover
+{
+    padding:5px;
+    background-color: #425468;
+    border-width:0px 0px 0px 0px;
+    border-style:dotted;
+    border-color:white;
+    display:inline;
+}
+
+
+.top-slider img
+{
+    width:100%;
+    margin-top:66px;
+}
+
+.mega-menu
+{
+    z-index:99999;
+    position:fixed;
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+    background-color: #425468;
+    max-width:1000px;
+    opacity:.9;
+    width:80%;
+    height:150px;
+    display:none;
+    top:66px;
+    
+
+}
+
+.slide 
+{
+max-width:;    
+}
+.slide img
+{
+    width:100%;
+}
+
+.top-social{
+    position:absolute;
+    display: inline-block;
+top:18px;
+margin-left:10px;
+    width:200px;
+}
+
+.top-social a
+{
+height:30px !important;
+    margin-left:0px !important;
+    
+}
+
+.top-social img{
+opacity:1;
+}
+
+.top-social img:hover{
+opacity:.6;
+background-color: transparent !important;
+}
+
+.top-social a:hover{
+background-color: transparent !important;
+}
+
+.footer {
+        background-color:#a22326;
+        height:55px;
+}
+
+.footer-logo
+{
+        width:30%;
+    display:inline-block;
+        vertical-align: middle;
+        margin:0px;
+        padding:0px;
+      
+        margin:0px;
+}
+
+.footer-logo img
+{
+    margin-top:10px;
+    float:right;
+}
+
+.footer-links
+{
+    width:40%;
+    color:white;
+     display:inline-block;
+        vertical-align: middle;
+        padding-left:50px;
+        padding-top:20px;
+        font-size:12px;
+    
+}
+
+.footer-social
+{
+    width:220px;
+    color:white;
+     display:inline-block;
+        vertical-align: middle;
+        text-align: center;
+        line-height:66px;
+      border-width:0px 2px 0px 2px;
+    border-style:dotted;
+    border-color:white;
+        font-size:12px;
+        height:100%;
+
+}
+
+.footer-social img
+{
+            margin-top:15px;
+            margin-left:5px;
+}
+
+.slide1bg
+{
+    background-image: url('images/opportunity.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:550px;
+    
+    
+}
+.slide5bg
+{
+    background-image: url('images/ourstory.png');
+    background-repeat: no-repeat;
+    background-size: 400px;
+    min-height:550px;
+    margin-left:400px;
+    
+    
+}
+
+
+#slide-1
+{
+     
+     background-image: url('images/opportunitybg.jpg');
+}
+
+
+#slide-2
+{
+     
+     background-image: url('images/Opporunity_ProductSection.jpg');
+         background-position: center; 
+     min-height:550px;
+     color:white;
+     
+}
+
+#slide2c {
+    width:65%;
+    display:none;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:9%;
+    padding-top:30px;
+}
+.largetext {
+    font-size: 35px;
+    
+}
+
+#large2 {
+    display:inline-block;
+    position:relative;
+    
+    width:40%;
+    border-style:dotted;
+    border-color:white;
+    border-width:2px 0px 2px 0px;
+    margin-top:0%;
+   padding:5px;
+   
+    
+}
+
+#small2 {
+    width:50%;
+    display:inline-block;
+    position:relative;
+    padding:10px;
+    
+}
+
+
+#slide-4
+{
+     
+     background-image: url('images/industry.jpg');
+         background-position: center; 
+          background-size: 100%;
+     min-height:400px;
+     background-repeat: no-repeat;
+     color:white;
+     
+}
+
+.foursteps {
+    display:none;
+       font-size: 35px;
+}
+
+
+#slide-8
+{
+     
+     background-image: url('images/getstartedbg.jpg');
+         background-position: center; 
+         background-repeat:no-repeat;
+     min-height:450px;
+     color:white;
+     
+}
+
+#box {
+        display:none;
+}
+
+#usa {
+        display:none;
+        position:relative;
+        margin-top:-35%;
+        margin-left:14%;
+        width:150px;
+}
+#box img
+{
+
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:80px;
+    margin-left:150px;
+    
+}
+
+#gs {
+    display:none;
+    
+cursor:pointer;
+}
+
+
+.smwhite {
+    color:white;
+    font-size:20px;
+
+}
+
+
+
+
+
+
+
+#slide-5
+{
+     
+     background-image: url('images/ourstorybg.jpg');
+     background-size: 100%;
+         background-position: center; 
+     height:400px;
+     overflow-y: hidden;
+     color:white;
+     background-repeat: no-repeat
+     
+}
+
+
+
+#slide-7
+{
+     
+ 
+     background-size: 100%;
+         background-position: center; 
+     min-height:850px;
+     overflow-y: hidden;
+     color:white;
+     background-repeat: no-repeat
+     
+}
+
+
+
+
+@media (max-width: 1600px) {
+  .nav li a{
+    margin-left:10px;
+  }
+  .logo {
+      width:20%;
+  }
+}
+
+

@@ -1,0 +1,1 @@
+<img src="http://www.fanfave.com/fanfave_splashpage.jpg" style="width:100%;">

@@ -1,0 +1,278 @@
+@charset "utf-8";
+/* CSS Document */
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+#cafetop {
+
+    background-image: url('../skin/images/cafe/productbanner.jpg');
+    background-position:calc(50% - 50px) 50%;
+    
+    background-size:cover;
+    background-repeat:repeat-x;
+    
+}
+
+#cafevid {
+    background-color: transparent;
+    min-height:400px;
+    height:53%;
+    border-color:white;
+    border-style:dotted;
+    border-width:0px 0px 1px 0px;
+    vertical-align: center;
+}
+
+.ganocafe
+{
+    margin-top:-2.8%;
+    display:inline-block;
+    text-align:left;
+    color:white;
+width:400px;
+line-height:24px;
+margin-left:5%;
+min-height:250px;
+}
+
+.fogtext {
+    opacity: .80;
+}
+
+#cafeslide-1 {
+    background-image: url('../skin/images/cafe/pattern1.jpg');
+}
+
+.cafehead
+{
+    color:red;
+    font-size:25px;
+    font-weight: bold;
+    border-color:#666666;
+    border-style:dotted;
+    border-width:0px 0px 1px 0px;
+}
+
+.ganocafe3{
+padding-top:60px;
+    background-image: url('../skin/images/cafe/pattern2.png');
+
+
+}
+
+.gano
+{
+    width:1050px;
+    
+}
+
+.cafeimg
+{
+    margin-top:20px;
+    padding:20px;
+        border-color:#666666;
+    border-style:dotted;
+    border-width:0px 0px 1px 0px;
+}
+
+.cafeimgbot
+{
+    
+    padding:20px;
+  
+}
+
+.gano h1,h3
+{
+    font-family:arial;
+    color:#626e77;
+}
+
+.proform
+{
+    background-color: #dadada;
+    
+}
+
+.proform input[type=text]
+{
+    border-width:0px;
+    width:100%;
+    background-color: #c2c5bd;
+    font-size:25px;
+}
+
+.subbutton
+{
+    font-size:25px;
+    color:#30328b;
+    padding:5px 20px 5px 20px;
+    
+    border-width:0px;
+    font-family:Oswald;
+
+background: #d3d3d3; /* Old browsers */
+background: -moz-linear-gradient(top, #d3d3d3 0%, #f1f1f1 50%, #e1e1e1 52%, #c1c1c1 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d3d3d3), color-stop(50%,#f1f1f1), color-stop(52%,#e1e1e1), color-stop(100%,#c1c1c1)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #d3d3d3 0%,#f1f1f1 50%,#e1e1e1 52%,#c1c1c1 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #d3d3d3 0%,#f1f1f1 50%,#e1e1e1 52%,#c1c1c1 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #d3d3d3 0%,#f1f1f1 50%,#e1e1e1 52%,#c1c1c1 100%); /* IE10+ */
+background: linear-gradient(to bottom, #d3d3d3 0%,#f1f1f1 50%,#e1e1e1 52%,#c1c1c1 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d3d3d3', endColorstr='#c1c1c1',GradientType=0 ); /* IE6-9 */
+}
+
+.subbutton:hover
+{
+    background:#a22326;
+    color:#ffffff;
+}
+
+.sidetd1 {
+    background-image:url('../skin/images/cafe/business_slider3.jpg');
+    background-repeat:repeat-x;
+
+    background-position: -400px 16px;
+}
+.sidetd2 {
+    background-image:url('../skin/images/cafe/business_slider2.jpg');
+    background-repeat:repeat-x;
+    background-position: -400px 16px;
+}
+.gano2 th{
+    background-color: #655337;
+    color:white;
+    text-align:left;
+    padding:10px;
+    font-weight:normal;
+    font-size:20px;
+    
+}
+
+.gano2 {
+    
+    width:1050px;
+}
+
+.ganocafe4
+{
+    padding-top:60px;
+    background-color:#ece8e3;
+}
+
+
+#ganod{
+    width:250px;
+    height:55px;
+    display:inline-block;
+    background-image: url('../skin/images/ganodaily2.png');
+    background-repeat:no-repeat;
+}
+
+#ganod:hover {
+    width:250px;
+    height:55px;
+    display:inline-block;
+    background-image: url('../skin/images/ganodaily2y.png');
+    background-repeat:no-repeat;
+}
+
+#ganoc{
+    width:250px;
+    height:55px;
+    display:inline-block;
+    background-image: url('../skin/images/cafe/ganocafe.png');
+    background-repeat:no-repeat;
+}
+
+#ganoc:hover {
+    width:250px;
+    height:55px;
+    display:inline-block;
+    background-image: url('../skin/images/cafe/ganocafe_yellow.png');
+    background-repeat:no-repeat;
+}
+
+.training
+{
+    padding:5px;
+    color:red;
+    font-weight: bold;
+    border-width:5px 0px 0px 0px;
+    border-style:solid;
+    border-color: white;
+}
+
+.ganocafe5
+{
+    background-color: white;
+    padding-top:50px;
+    
+}
+
+.ganocafe5 td
+{
+    padding:0px;
+}
+
+.gano2 td
+{
+    background-color: #efefef;
+
+}
+
+.social
+{
+     background-color: #efefef;
+    border-width:0px 0px 1px 0px;
+    border-style:dotted;
+    border-color: red;   
+}
+
+.affiliate
+{
+
+    background-color: #dadada;
+    color:#5f80d8;
+
+}
+
+.affiliate
+{
+
+    background-color: #dadada;
+    color:#5f80d8;
+
+}
+
+.affiliate:hover
+{
+
+    background-color: #c4c4c4;
+    color:#26479d;
+    cursor:pointer;
+
+}
+
+.ahead {
+padding:5px;
+    font-weight: bold;
+    border-width:0px 0px 3px 0px;
+    border-style:solid;
+    border-color: white;  
+}
+
+.adesc
+{
+    padding:5px;
+    font-size:12px;
+}
+
+.productover
+{
+    position:relative;
+    margin-top:-510px;
+    margin-left:45%;
+}
+.gano > table > tbody > tr > td > img {
+  vertical-align: top;
+  border:15px solid transparent;
+  margin-top:-30%;
+}

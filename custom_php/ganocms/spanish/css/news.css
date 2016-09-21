@@ -1,0 +1,146 @@
+.lSSliderWrapper {
+  margin-bottom: -1%;
+}
+ul#lightSlider.lightSlider.lSSlide {
+margin-top: 1%;
+margin-bottom: 1%;
+}
+.header-under-slider {
+margin-top:-16px;
+}
+div.span6.news-page-header,
+div.span6.events-page-header {
+  width:50%;
+  margin-left:auto;
+}
+.news-page-header {
+color: white;
+}
+.news-page-header-h2 {
+margin:10px;
+}
+
+div.news-header {
+  background:#656565;
+  float:left;
+}
+.news-header-image {
+float:left;
+width:100%;
+}
+
+div.events-header {
+background:#7C7A6D;
+float:right;
+}
+
+.events-header-image {
+float:right;
+width:100%;
+height:57.3%;
+}
+
+/* gutter quick fix */
+.row-fluid.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.row-fluid.no-gutters > [class^="col-"],
+.row-fluid.no-gutters > [class*=" col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.news-feed-item {
+margin-right:10px;
+}
+.news-feed-item.news-1 > a {
+  text-decoration:none;
+  color:#943F3B;
+  font-family: "Century Gothic";
+  font-weight: 800;
+  margin-bottom:10px;
+  width: calc(100% - 10px)
+}
+.news-feed-img{
+  width: calc(100% - 10px);
+  padding:10px 0px;
+}
+
+.event-description {
+  display:inline-block;
+}
+/* selects image in event-feed-item */
+.event-feed-item > div:nth-child(1), .event-feed-img {
+  padding: 0px 10px;
+}
+
+.event-feed-item > div:nth-child(2) > a {
+  text-decoration:none;
+  font-family:'source sans pro';
+  color:grey;
+}
+
+.event-feed-item > div:nth-child(2) > a > date,
+.event-date {
+  color:#BD6A2E;
+  border-bottom:8px solid #BD6A2E;
+  display:inline-block;
+  font-size:20px;
+}
+
+.event-feed-item > div:nth-child(2) > a > summary,
+.event-location {
+  color:#BD6A2E;
+  font-size:25px;
+  display:block;
+  font-weight:500;
+}
+h8 {
+  font-size:15px;
+}
+.event-feed-item > div:nth-child(2) > a > h8:nth-child(1),
+.event-title {
+  color:#BD6A2E;
+}
+.event-feed-item > div:nth-child(2) > a > h8:nth-child(2),
+.event-description {
+
+}
+
+.content-below-header {
+  /* margin-top:10px; */
+}
+
+/* images on the side of slider */
+.news-sidetd1 {
+    background-image:url('../img/news/newsbg1.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+
+}
+.news-sidetd2 {
+    background-image:url('../img/news/newsbg2.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+        background-position: center;
+
+}
+
+.listevent {
+    width:95%;
+    border-style:dotted;
+    border-width:0px 0px 1px 0px;
+    border-color:"#BD6A2E";
+    padding:5px;
+}

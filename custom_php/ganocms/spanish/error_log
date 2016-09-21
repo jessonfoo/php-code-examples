@@ -1,0 +1,81 @@
+[08-Apr-2015 06:51:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/gano/public_html/contact.php on line 19
+[08-Apr-2015 07:34:31 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/gano/public_html/business.php on line 26
+[08-Apr-2015 07:42:23 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/gano/public_html/products.php on line 263
+[08-Apr-2015 11:38:25 America/Chicago] PHP Warning:  include(calendar.php): failed to open stream: No such file or directory in /home/gano/public_html/news.php on line 61
+[08-Apr-2015 11:38:25 America/Chicago] PHP Warning:  include(calendar.php): failed to open stream: No such file or directory in /home/gano/public_html/news.php on line 61
+[08-Apr-2015 11:38:25 America/Chicago] PHP Warning:  include(): Failed opening 'calendar.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/gano/public_html/news.php on line 61
+[08-Apr-2015 13:18:35 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/gano/public_html/business.php on line 186
+[08-Apr-2015 13:50:30 America/Chicago] PHP Warning:  include(footerphp): failed to open stream: No such file or directory in /home/gano/public_html/contact.php on line 144
+[08-Apr-2015 13:50:30 America/Chicago] PHP Warning:  include(footerphp): failed to open stream: No such file or directory in /home/gano/public_html/contact.php on line 144
+[08-Apr-2015 13:50:30 America/Chicago] PHP Warning:  include(): Failed opening 'footerphp' for inclusion (include_path='.:/opt/php54/lib/php') in /home/gano/public_html/contact.php on line 144
+[09-Apr-2015 13:52:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$top' (T_VARIABLE) in /home/gano/public_html/company2.php on line 15
+[09-Apr-2015 19:07:56 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:08:48 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:08:51 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:08:56 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:09:07 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:10:13 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:10:16 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:10:39 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:10:44 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:15:25 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:15:26 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:16:28 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[09-Apr-2015 19:16:30 America/Chicago] PHP Fatal error:  Call to undefined function get_site_url() in /home/gano/public_html/company2.php on line 376
+[17-Apr-2015 11:35:33 America/Chicago] PHP Warning:  include(geadmin/nvg/data.php): failed to open stream: No such file or directory in /home/gano/public_html/ganocms/index.php on line 2
+[17-Apr-2015 11:35:33 America/Chicago] PHP Warning:  include(geadmin/nvg/data.php): failed to open stream: No such file or directory in /home/gano/public_html/ganocms/index.php on line 2
+[17-Apr-2015 11:35:33 America/Chicago] PHP Warning:  include(): Failed opening 'geadmin/nvg/data.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/gano/public_html/ganocms/index.php on line 2
+[17-Apr-2015 11:38:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 182
+[17-Apr-2015 11:38:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 184
+[17-Apr-2015 11:38:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/index.php on line 28
+[17-Apr-2015 11:39:09 America/Chicago] PHP Warning:  include(geadmin/congif.php): failed to open stream: No such file or directory in /home/gano/public_html/ganocms/index.php on line 3
+[17-Apr-2015 11:39:09 America/Chicago] PHP Warning:  include(geadmin/congif.php): failed to open stream: No such file or directory in /home/gano/public_html/ganocms/index.php on line 3
+[17-Apr-2015 11:39:09 America/Chicago] PHP Warning:  include(): Failed opening 'geadmin/congif.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/gano/public_html/ganocms/index.php on line 3
+[17-Apr-2015 11:39:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 182
+[17-Apr-2015 11:39:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 184
+[17-Apr-2015 11:39:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/index.php on line 29
+[17-Apr-2015 11:39:21 America/Chicago] PHP Fatal error:  Cannot redeclare set_data() (previously declared in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php:10) in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 19
+[17-Apr-2015 11:39:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 184
+[17-Apr-2015 11:39:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/index.php on line 28
+[17-Apr-2015 11:42:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 184
+[17-Apr-2015 11:42:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/index.php on line 29
+[17-Apr-2015 12:01:31 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[17-Apr-2015 14:15:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'footer' (T_STRING), expecting ',' or ';' in /home/gano/public_html/ganocms/business.php on line 200
+[17-Apr-2015 14:30:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/business.php on line 72
+[17-Apr-2015 15:04:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/business.php on line 96
+[17-Apr-2015 15:12:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/news.php on line 47
+[17-Apr-2015 15:13:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/news.php on line 47
+[17-Apr-2015 15:13:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/news.php on line 47
+[17-Apr-2015 18:15:46 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[17-Apr-2015 18:25:38 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/gano/public_html/ganocms/productview.php on line 64
+[17-Apr-2015 18:25:41 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/gano/public_html/ganocms/productview.php on line 64
+[17-Apr-2015 18:25:42 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/gano/public_html/ganocms/productview.php on line 64
+[17-Apr-2015 18:34:43 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/gano/public_html/ganocms/productview.php on line 37
+[20-Apr-2015 12:18:42 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/gano/public_html/ganocms/business.php on line 5
+[20-Apr-2015 12:55:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/gano/public_html/ganocms/business.php on line 195
+[22-Apr-2015 16:17:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gano/public_html/ganocms/navbar2.php on line 39
+[22-Apr-2015 23:55:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:55:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:56:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:56:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:56:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:56:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[22-Apr-2015 23:56:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/geadmin/nvg/nvg_data.php on line 37
+[12-Jun-2015 12:53:50 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/gano/public_html/ganocms/spanish/news.php on line 159
+[12-Jun-2015 13:29:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/spanish/geadmin/nvg/nvg_data.php on line 184
+[12-Jun-2015 13:29:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/spanish/business.php on line 199
+[12-Jun-2015 13:29:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gano/public_html/ganocms/spanish/geadmin/nvg/nvg_data.php on line 184
+[12-Jun-2015 13:29:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/spanish/business.php on line 220
+[12-Jun-2015 13:47:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/spanish/products.php on line 172
+[12-Jun-2015 13:47:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gano/public_html/ganocms/spanish/products.php on line 333

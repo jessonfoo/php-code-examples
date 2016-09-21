@@ -1,0 +1,64 @@
+[13-Jan-2015 05:55:55 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:55:55 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:55:55 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:55:55 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:21 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:21 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:21 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:21 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:22 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:36 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:36 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:36 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:36 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:36 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:36 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:36 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:36 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:37 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:37 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:37 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:37 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:37 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:37 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:37 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:37 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:37 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:37 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:37 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:37 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:40 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:40 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:40 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:40 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:41 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:41 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:41 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:41 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:41 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:41 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:41 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:41 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:56:41 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:41 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:41 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:56:41 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
+[13-Jan-2015 05:58:04 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:58:04 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:58:04 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/speedy/public_html/ajax/custom/create_mail.php on line 2
+[13-Jan-2015 05:58:04 UTC] PHP Fatal error:  Call to undefined function validate() in /home/speedy/public_html/ajax/custom/create_mail.php on line 3
